@@ -1,1 +1,2 @@
-include $(sort $(wildcard $(BASE_EXTERNAL_DIR)/aesd-assignments/*.mk))
+# base_external/external.mk
+include ../base_external/package/aesd-assignments/aesd-assignments.mk
